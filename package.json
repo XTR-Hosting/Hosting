@@ -1,0 +1,28 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "XTR-Bot Created By xExtreme!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-accept-bot": "^0.3.4",
+    "discord-yt-player": "^1.1.1",
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.9.0",
+    "fortnite": "^3.0.0",
+    "fs": "0.0.1-security",
+    "isgd": "^1.1.3",
+    "ms": "^2.1.1",
+    "name": "0.0.2",
+    "profanities": "^2.6.0",
+    "relevant-urban": "^2.0.0",
+    "request": "^2.85.0",
+    "stats": "^1.0.0",
+    "urban": "^0.3.1",
+    "weather-js": "^2.0.0"
+  }
+}
